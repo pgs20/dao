@@ -36,5 +36,3 @@ INSERT INTO ORDERS (date, customer_id, product_name, amount) VALUES
 (NOW(), 6, 'Принтер', 10000.00),
 (NOW(), 3, 'Системный блок', 60000.00),
 (NOW(), 7, 'Веб-камера', 3000.00);
-
-DELETE FROM ORDERS;
